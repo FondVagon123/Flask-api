@@ -1,4 +1,4 @@
-# Flask API з SQLAlchemy
+# Flask API з SQLAlchemyю
 
 Це REST API для управління магазинами та товарами, розроблений за допомогою Flask і SQLAlchemy для роботи з базою даних.
 
