@@ -16,7 +16,7 @@
 ## Інструкція з встановлення
 1. **Клонування репозиторію**  
    ```bash
-   git clone https://github.com/Lutvunenko-Dmutro/flask-api.git
+   git clone https://github.com/FondVagon123/flask-api.git
    cd flask-api
    ```
 
